@@ -14,11 +14,11 @@ This is a web application that provides users with current weather information. 
 ## Tech Stack
 - Frontend: React
 
-- Weather API: (Specify the weather API you are using, e.g., OpenWeatherMap, AccuWeather)
+- Weather API: OpenWeatherMap
 
 - Styling: CSS
 
-- State Management: 
+- State Management: Hooks and ContextAPI
 
 ## Project Link
 See it in action: https://ankasth369.github.io/weatherApp/
